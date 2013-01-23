@@ -127,7 +127,7 @@
 <text x="5.08" y="50.8" size="1.27" layer="25" font="vector" rot="R90" align="center-left">+5</text>
 <text x="7.62" y="50.8" size="1.27" layer="25" font="vector" rot="R90" align="center-left">+3V3</text>
 <text x="16.51" y="25.4" size="1.27" layer="21" font="vector">Copyright(c) Quick2Wire.com</text>
-<text x="19.05" y="27.94" size="1.27" layer="21" font="vector">Pi Interface Board V0.7</text>
+<text x="19.05" y="27.94" size="1.27" layer="21" font="vector">Pi Interface Board V0.8</text>
 <text x="10.16" y="50.8" size="1.27" layer="21" font="vector" rot="R90" align="center-left">GND</text>
 <wire x1="0" y1="77.47" x2="0" y2="2.54" width="0.016" layer="20"/>
 <wire x1="0" y1="2.54" x2="2.54" y2="0" width="0.016" layer="20" curve="90"/>
